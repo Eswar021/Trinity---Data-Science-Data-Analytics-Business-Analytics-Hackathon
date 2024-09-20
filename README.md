@@ -13,6 +13,36 @@ Develop innovative product concepts leveraging analytical and AI techniques to d
 ## Proposed Solution
 A personalized medical recommendation system providing individualized healthcare insights, including disease predictions, adaptive workouts, dietary recommendations, and medication guidelines based on user symptoms.
 
+## Approach
+
+1. **Section 1: Patient Demographics Analysis**
+   - Analyzed average patient age differences for each drug.
+   
+     ![Average Age for Each Drug Consumption](./Charts/Average%20age%20for%20each%20Drug%20Consumption.jpg)
+   
+   - Counted unique patients submitting claims for specific drugs under various payment types.
+
+     ![Unique Patients for Different Drugs and Payment Types](./Charts/unique%20Patients%20for%20different%20drugs%20and%20Payment%20types.jpg)
+
+2. **Section 2: Claim Trends and HCP Analysis**
+   - Generated line charts illustrating trends in claim submissions over time for different payment types.
+
+     ![Trends in Claim Submission](./Charts/Trends%20In%20claim%20Submission.jpg)
+   
+   - Developed pie charts depicting percentages of healthcare providers (HCPs) associated with different drugs.
+
+     ![Distribution of Percentage of Drugs](./Charts/Distribution%20of%20precentage%20of%20drubs%20pie%20chart.jpg)
+
+3. **Section 3: HCP Segmentation**
+   - Performed segmentation analysis on HCPs to categorize them based on prescription patterns and preferences.
+
+4. **Section 4: Geographic and Demographic Insights**
+   - Identified potential geographic regions and patient demographics for effective drug promotion.
+
+     ![Number of Claims Over the States of America](./Charts/Number%20of%20Claims%20over%20the%20states%20of%20America.jpg)
+
+     ![Event Patient Age](./Charts/Event%20Patient%20Age.jpg)
+
 ## Key Skills
 - Data Science, Machine Learning, Data Analysis
 - Python, Pandas, Scikit-Learn, Matplotlib, Tableau, Excel
@@ -22,35 +52,6 @@ A personalized medical recommendation system providing individualized healthcare
 - **Data Visualization:** Tableau
 - **Model Building:** Scikit-Learn (K-Nearest Neighbors)
 
-## Approach
-
-1. **Section 1: Patient Demographics Analysis**
-   - Analyzed average patient age differences for each drug.
-   
-     ![Average Age for Each Drug Consumption](Average%20age%20for%20each%20Drug%20Consumption.jpg)
-   
-   - Counted unique patients submitting claims for specific drugs under various payment types.
-
-     ![Unique Patients for Different Drugs and Payment Types](unique%20Patients%20for%20different%20drugs%20and%20Payment%20types.jpg)
-
-2. **Section 2: Claim Trends and HCP Analysis**
-   - Generated line charts illustrating trends in claim submissions over time for different payment types.
-
-     ![Trends in Claim Submission](Trends%20In%20claim%20Submission.jpg)
-   
-   - Developed pie charts depicting percentages of healthcare providers (HCPs) associated with different drugs.
-
-     ![Distribution of Percentage of Drugs](Distribution%20of%20precentage%20of%20drubs%20pie%20chart.jpg)
-
-3. **Section 3: HCP Segmentation**
-   - Performed segmentation analysis on HCPs to categorize them based on prescription patterns and preferences.
-
-4. **Section 4: Geographic and Demographic Insights**
-   - Identified potential geographic regions and patient demographics for effective drug promotion.
-
-     ![Number of Claims Over the States of America](Number%20of%20Claims%20over%20the%20states%20of%20America.jpg)
-
-     ![Event Patient Age](Event%20Patient%20Age.jpg)
 
 ## Insights and Visualizations
 - **Average Patient Age by Drug:** Reveals how age demographics vary for each drug.
@@ -70,4 +71,4 @@ A personalized medical recommendation system providing individualized healthcare
 - Demonstrated expertise in data-driven decision-making and healthcare strategy.
 
 ## Contact
-For more information, please reach out to the team at [pp2549@srmist.edu.in].
+For more information, please reach out to the team at pp2549@srmist.edu.in.
